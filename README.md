@@ -1,5 +1,5 @@
 # IMV-StudyGroup
-
+```
 IMV-OpenCV-Training/
 │
 ├── README.md
@@ -58,7 +58,8 @@ IMV-OpenCV-Training/
     ├── 01-installation/
     ├── 02-python-venv/
     └── 03-library-setup/
-
+```
+```
 Folder	Fungsi
 docs/	          Dokumentasi keseluruhan pelatihan
 setup/	        Pengecekan instalasi dan environment
@@ -70,3 +71,4 @@ exercises/	    Tugas dan starter code peserta
 assets/	        Gambar, video pendek, dan aset pendukung
 opening-demo/	  Program demo gabungan
 tutorials/	    Video dan panduan persiapan
+```
